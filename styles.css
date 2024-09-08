@@ -80,7 +80,7 @@ header .search-bar input {
     text-align: center;
 }
 
-.stats, .program-grid, .testimonial-grid {
+.stats, .program-grid, .testimonial-slider {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -104,55 +104,3 @@ header .search-bar input {
     text-align: left;
 }
 
-footer {
-    background: #333;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-}
-
-footer .footer-nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-footer .footer-nav ul li {
-    display: inline;
-    margin: 0 10px;
-}
-
-footer .footer-nav a {
-    color: #fff;
-    text-decoration: none;
-}
-
-footer .social-media a {
-    margin: 0 10px;
-    color: #fff;
-    text-decoration: none;
-}
-
-footer .newsletter {
-    margin: 20px 0;
-}
-
-footer .newsletter input {
-    padding: 10px;
-    border-radius: 5px;
-    border: none;
-    margin-right: 10px;
-}
-
-footer .newsletter button {
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    background: #e94e77;
-    color: #fff;
-    cursor: pointer;
-}
-
-footer .legal-links a {
-    color: #fff;
-    text-decoration: none;
